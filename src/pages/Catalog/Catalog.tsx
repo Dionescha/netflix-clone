@@ -77,7 +77,7 @@ function Catalog() {
     {highlightMovie && (<HighlightMovie movie={highlightMovie} />)}
     <List title='Populares' moviesImg={popularMovies} />
     <List title='Top Assistidos' moviesImg={topRatedMovies} />
-    <List title='Lancamentos' moviesImg={latestMovies}/>
+    <List title='Lançamentos' moviesImg={latestMovies}/>
   </>
 }
 

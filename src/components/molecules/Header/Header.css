@@ -1,0 +1,51 @@
+.navbar {
+    
+    height: 50px;
+    position: fixed;
+    z-index: 999;
+    top: 10px
+    
+    
+    
+
+}
+
+
+
+.Home {
+    
+    color: #f3f3f3;
+    margin-left: 50px;
+     
+    
+    
+   
+}
+
+.Destaques {
+    
+    color: #f3f3f3;
+    margin-left: 50px;
+    
+    
+   
+   
+}
+.Series {
+    
+    color: #f3f3f3;
+    margin-left: 50px;
+    
+    
+}
+
+.user-img a img{
+    display: flex;
+    position: fixed;
+    top: 10px;
+    left: 1300px;
+    width: 60px;
+    object-fit: contain;
+    
+
+}
